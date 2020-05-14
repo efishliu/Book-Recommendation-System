@@ -12,4 +12,4 @@ Book-Recommendation-System是一个基于隐语言模型的图书推荐系统。
 * 根据隐语义模型的特性对图书标签进行聚类，最后使用隐语义模型构建了一个图书推荐系统。
   * BSVD在图书推荐上的实现：[BSVD_book_recommendation](https://github.com/efishliu/Book-Recommendation-System/blob/master/Recommendation%20on%20Tensorflow/books/web%20recommendation.ipynb)
   * 图书推荐系统web设计：[Book Recommadation Web](https://github.com/efishliu/Book-Recommendation-System/tree/master/Book%20Recommadation%20Web)  
-  
+**项目说明：[隐语义模型的推荐系统]()**
